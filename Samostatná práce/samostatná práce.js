@@ -15,6 +15,11 @@ let rychlostHrace = 6;
 let rychlostProjektilu = 10;
 let rychlostNepratel = 0.3;
 
+let rectX = 350;
+let rectY = 350;
+let rectWidth = 350;
+let rectHeight = 350;
+
 for (let i = 0; i < poziceNepratel.length; i++) {
     poziceNepratel[i] = [(i % 10) * (velikostNepratel[0] * 1.7),
     Math.floor(i / 10) * (velikostNepratel[1] * 1.7)];
@@ -169,3 +174,5 @@ function kolizeProjektiluANepratel() {
         
     }
 }
+
+
