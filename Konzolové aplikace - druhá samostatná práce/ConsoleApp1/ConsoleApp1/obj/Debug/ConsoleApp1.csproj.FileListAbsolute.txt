@@ -1,0 +1,7 @@
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - druhá samostatná práce\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - druhá samostatná práce\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - druhá samostatná práce\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - druhá samostatná práce\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - druhá samostatná práce\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - druhá samostatná práce\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - druhá samostatná práce\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
