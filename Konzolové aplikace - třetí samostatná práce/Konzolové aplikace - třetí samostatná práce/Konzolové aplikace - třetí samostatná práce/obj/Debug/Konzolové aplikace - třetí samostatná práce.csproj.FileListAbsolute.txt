@@ -1,0 +1,7 @@
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\bin\Debug\Konzolové aplikace - třetí samostatná práce.exe.config
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\bin\Debug\Konzolové aplikace - třetí samostatná práce.exe
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\bin\Debug\Konzolové aplikace - třetí samostatná práce.pdb
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\obj\Debug\Konzolové aplikace - třetí samostatná práce.csproj.AssemblyReference.cache
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\obj\Debug\Konzolové aplikace - třetí samostatná práce.csproj.CoreCompileInputs.cache
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\obj\Debug\Konzolové aplikace - třetí samostatná práce.exe
+C:\Škola\2.Ročník\VAP\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\Konzolové aplikace - třetí samostatná práce\obj\Debug\Konzolové aplikace - třetí samostatná práce.pdb
